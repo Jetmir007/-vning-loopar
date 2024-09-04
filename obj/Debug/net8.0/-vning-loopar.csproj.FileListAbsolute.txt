@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\-vning-loopar\obj\Debug\net8.0\-vning-loopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\-vning-loopar\obj\Debug\net8.0\-vning-loopar.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\-vning-loopar\obj\Debug\net8.0\-vning-loopar.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\-vning-loopar\obj\Debug\net8.0\-vning-loopar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\-vning-loopar\bin\Debug\net8.0\-vning-loopar.exe
+C:\Users\Admin\Documents\GitHub\-vning-loopar\bin\Debug\net8.0\-vning-loopar.deps.json
+C:\Users\Admin\Documents\GitHub\-vning-loopar\bin\Debug\net8.0\-vning-loopar.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\-vning-loopar\bin\Debug\net8.0\-vning-loopar.dll
+C:\Users\Admin\Documents\GitHub\-vning-loopar\bin\Debug\net8.0\-vning-loopar.pdb
+C:\Users\Admin\Documents\GitHub\-vning-loopar\obj\Debug\net8.0\-vning-loopar.dll
+C:\Users\Admin\Documents\GitHub\-vning-loopar\obj\Debug\net8.0\refint\-vning-loopar.dll
+C:\Users\Admin\Documents\GitHub\-vning-loopar\obj\Debug\net8.0\-vning-loopar.pdb
+C:\Users\Admin\Documents\GitHub\-vning-loopar\obj\Debug\net8.0\-vning-loopar.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\-vning-loopar\obj\Debug\net8.0\ref\-vning-loopar.dll
