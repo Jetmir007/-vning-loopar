@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("-vning-loopar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+695a80aefd0892b6c7e0613168235dfef8ac4488")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3936c622db465293031d3dd7ceda266ab6c89fb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("-vning-loopar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("-vning-loopar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

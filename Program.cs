@@ -1,22 +1,37 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-/*int tal = 1;
-while( tal <= 20)
+
+/*for(int tal=1; tal<= 20; tal++)
 {
     Console.WriteLine(tal);
-    tal++;
+      
+}
+
+
+Console.Write("Skriv ett number ");
+
+for(int i = int.Parse(Console.ReadLine());i<=101;i++)
+{
+    
+    Console.Write(i);
+    if(i!=101){
+        Console.Write(", ");
+    }
+
+
 }
 */
 
-Console.Write("Skriv ett number");
-int tal = int.Parse(Console.ReadLine());
-while(tal <= 101)
+int antalTal;
+double summa = 0, input;
+Console.Write("Antal tal som ska matas in");
+antalTal = Convert.ToInt32(Console.ReadLine());
+for (int i=1; i <= antalTal; i++)
 {
-    
-    Console.WriteLine(tal);
-    
-    tal++;
-
+    Console.Write("Skriv värde " + i + ": ");
+    input = Convert.ToDouble(Console.ReadLine());
+    summa = summa + input;
 
 }
+Console.WriteLine("Medelvärdet är: " + (summa / antalTal));
